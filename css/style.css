@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+a,
+a:hover {
+    text-decoration: none !important;
+}
+
+img {
+    border: 0px;
+}
+
+h1,h2,h3,h4,h5,h6,ol,ul,p,address {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+@font-face {
+    font-family: poppin_medium;
+    src: url(../fonts/text/Poppins-Medium.ttf);
+}
+body{
+	background: url(../images/11.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+/*main css start now*/
+h1 {
+	font-size: 30px;
+	font-weight: 700;
+	padding: 20px;
+	color: #fff;
+	text-align: center;
+	background: #007bff;
+}
+.title{
+	margin-top: 50px;
+}
+.title h3 {
+	font-size: 25px;
+	color: #000;
+	padding: 20px 0px;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-style: italic;
+}
+.title h4{
+	font-size: 18px;
+	color: #000;
+	padding-bottom: 50px;
+}
+.card {
+	background: transparent;
+	margin: 20px 0px;
+}
+.no {
+	background: transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
